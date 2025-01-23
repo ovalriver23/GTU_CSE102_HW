@@ -4,7 +4,7 @@ Welcome to my CSE 102 homework repository! This collection contains all my assig
 
 ## 📋 Table of Contents
 
-- **Assignment 1**: [Encryption and Decryption with Caesar Cipher 🔐](#Hw1)
+- **Assignment 1**: [Encryption and Decryption with Caesar Cipher 🔐](Hw1/)
 - **Assignment 2**: [AI Model Using Data Points 🤖](#assignment-2)
 - **Assignment 3**: [ECTS Game Simulation 🎮](#assignment-3)
 - **Assignment 4**: [Query System with File I/O 📄](#assignment-4)
