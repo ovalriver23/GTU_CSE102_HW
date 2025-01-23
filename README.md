@@ -5,18 +5,18 @@ Welcome to my CSE 102 homework repository! This collection contains all my assig
 ## 📋 Table of Contents
 
 - **Assignment 1**: [Encryption and Decryption with Caesar Cipher 🔐](Hw1/)
-- **Assignment 2**: [AI Model Using Data Points 🤖](#assignment-2)
-- **Assignment 3**: [ECTS Game Simulation 🎮](#assignment-3)
-- **Assignment 4**: [Query System with File I/O 📄](#assignment-4)
-- **Assignment 5**: [Finding Magic Numbers in News Texts 🧙‍♂️](#assignment-5)
-- **Assignment 6**: [Histogram Visualization and Analysis 📊](#assignment-6)
-- **Assignment 7**: [Board Game Simulation 🎲](#assignment-7)
-- **Assignment 8**: [Sorting and Pattern Matching in Text Files 🔍](#assignment-8)
-- **Assignment 9**: [Botanist Game in a Forest 🌲](#assignment-9)
-- **Assignment 10**: [Assembly Language Simulator 💻](#assignment-10)
-- **Assignment 11**: [Smart City Navigation, Healthcare Planning, and Card Shuffling 🏙️](#assignment-11)
-- **Assignment 12**: [Custom Dictionary Data Structure 📚](#assignment-12)
-- **Assignment 13**: [Species Information Linked List 🦁](#assignment-13)
+- **Assignment 2**: [AI Model Using Data Points 🤖](Hw2/)
+- **Assignment 3**: [ECTS Game Simulation 🎮](Hw3/)
+- **Assignment 4**: [Query System with File I/O 📄](Hw4/)
+- **Assignment 5**: [Finding Magic Numbers in News Texts 🧙‍♂️](Hw5/)
+- **Assignment 6**: [Histogram Visualization and Analysis 📊](Hw6/)
+- **Assignment 7**: [Board Game Simulation 🎲](Hw7/)
+- **Assignment 8**: [Sorting and Pattern Matching in Text Files 🔍](Hw8/)
+- **Assignment 9**: [Botanist Game in a Forest 🌲](Hw9/)
+- **Assignment 10**: [Assembly Language Simulator 💻](Hw10/)
+- **Assignment 11**: [Smart City Navigation, Healthcare Planning, and Card Shuffling 🏙️](Hw11/)
+- **Assignment 12**: [Custom Dictionary Data Structure 📚](Hw12/)
+- **Assignment 13**: [Species Information Linked List 🦁](Hw13/)
 
 ---
 
